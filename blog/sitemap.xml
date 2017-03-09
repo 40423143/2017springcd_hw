@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-10T00:06:21-00:00</lastmod>
+<lastmod>2017-03-10T01:57:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-10T00:06:21-00:00</lastmod>
+<lastmod>2017-03-10T01:57:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-10T00:06:21-00:00</lastmod>
+<lastmod>2017-03-10T01:57:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-10T00:06:21-00:00</lastmod>
+<lastmod>2017-03-10T01:57:39-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-09T23:28:54+08:00</lastmod>
+<lastmod>2017-03-10T00:31:48+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -81,13 +81,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./tag/seat-table.html</loc>
-<lastmod>2017-03-09T12:08:00+08:06</lastmod>
-<changefreq>daily</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
 <loc>./tag/ppt.html</loc>
 <lastmod>2017-02-25T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
@@ -95,7 +88,14 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 </url>
 
 <url>
-<loc>./author/2017springcd_ag7.html</loc>
+<loc>./tag/seat-table.html</loc>
+<lastmod>2017-03-09T12:08:00+08:06</lastmod>
+<changefreq>daily</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./author/43.html</loc>
 <lastmod>2017-03-09T12:08:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>

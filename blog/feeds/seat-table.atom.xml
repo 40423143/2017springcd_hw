@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習40423143楊智勝</title><link href="./" rel="alternate"></link><link href="./feeds/seat-table.atom.xml" rel="self"></link><id>./</id><updated>2017-04-27T12:08:00+08:00</updated><entry><title>協同產品設計實習 第十週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-27T12:08:00+08:00</published><updated>2017-04-27T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-04-27:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;倉儲協同&lt;/font&gt;&lt;/b&gt;
-1.+法運算&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>協同產品設計實習40423143楊智勝</title><link href="./" rel="alternate"></link><link href="./feeds/seat-table.atom.xml" rel="self"></link><id>./</id><updated>2017-04-27T12:08:00+08:00</updated><entry><title>協同產品設計實習 第十週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-27T12:08:00+08:00</published><updated>2017-04-27T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-04-27:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;倉儲協同&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;1.+法運算&lt;/p&gt;
 &lt;p&gt;2.+法運算&lt;/p&gt;
 &lt;p&gt;3.*法運算&lt;/p&gt;
-&lt;p&gt;4./法運算
-&lt;/p&gt;
+&lt;p&gt;4./法運算&lt;/p&gt;
+
+
 &lt;h2&gt;1.+法運算&lt;/h2&gt;
 &lt;p&gt;+法程式碼(add.py)
 &lt;pre class="brush: python"&gt;
@@ -60,7 +61,12 @@ sys.path.append("./m1") //資料夾路徑
 import add//導入 add.py&lt;/p&gt;
 &lt;p&gt;sum = add.add (1,2) // /法演算&lt;/p&gt;
 &lt;p&gt;print(sum) //輸出結果
-&lt;/pre&gt;&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第九週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-jiu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-di-jiu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;期中作業&lt;/p&gt;
+&lt;/pre&gt;&lt;/p&gt;
+&lt;h2&gt;5.操作影片:&lt;/h2&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/DBFp3QxJmf0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;h2&gt;6.心得:&lt;/h2&gt;
+&lt;p&gt;第十周的這運算看似簡單,但其實需要去更了解程式的編譯和寫法&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第九週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-jiu-zhou-zuo-ye.html" rel="alternate"></link><published>2017-04-20T12:08:00+08:00</published><updated>2017-04-20T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-04-20:./xie-tong-chan-pin-she-ji-shi-xi-di-jiu-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;期中作業&lt;/p&gt;
 &lt;p&gt;1.Fossil Server 實習查驗&lt;/p&gt;
 &lt;p&gt;2.四連桿機構協同 Trace Point 查驗&lt;/p&gt;
 &lt;p&gt;3.Fourbar Walker OnShape 零件協同繪圖與組立查驗&lt;/p&gt;

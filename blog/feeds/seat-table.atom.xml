@@ -328,11 +328,20 @@ ctx.font = "35px ScriptS"
 ctx.fillText("40423143 ",330,450)
 ctx.stroke()
 
-&lt;/script&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-18T12:08:00+08:00</published><updated>2017-05-18T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-05-18:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython 正齒輪齒面寬輔助設計程式&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;/script&gt;
+
+&lt;h1&gt;齒輪協同繪製過程影片:&lt;/h1&gt;
+&lt;iframe src="https://player.vimeo.com/video/219786161" width="640" height="480" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;a href="https://vimeo.com/219786161"&gt;國立虎尾科技大學 機械設計工程系 協同產品設計實習 40423143 第十五週齒輪協同繪製&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;心得:用好前面二個零件後,後面協同才
+是比較麻煩的必須等所有組員畫完才能做組合協同&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十三週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-18T12:08:00+08:00</published><updated>2017-05-18T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-05-18:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-san-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython 正齒輪齒面寬輔助設計程式&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 
 
 &lt;h2&gt;協同產品設計實習課程 第十三週&lt;/h2&gt;
-&lt;p&gt;心得:&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十二週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-11T12:08:00+08:00</published><updated>2017-05-11T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-05-11:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython 繪製三個正齒輪廓嚙合&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p&gt;各班給兩台實體電腦, 從 Ubuntu 16.04 裝起, 配置正齒輪齒面寬輔助設計程式, 然後設法延伸此網際輔助設計程式, 配置 V-rep、Leo Editor、Fossil SCM server 以及 Nginx 加上以 uwsgi 配置 Python3 網際程式等系統. - 由 WCM 課程學員負責配置好硬體與操作系統, 然後逐步放入網際內容管理系統後, 分別為協同產品設計實習各學員建立帳號, 然後試著完成上述各系統與伺服器的建立.&lt;/p&gt;
+&lt;p&gt;上課心得:協同的重要性的成分未來只會更多,我們必需更懂如何透過程式來整合所學的一切&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十二週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-11T12:08:00+08:00</published><updated>2017-05-11T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-05-11:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython 繪製三個正齒輪廓嚙合&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;三種正齒輪嚙合&lt;/p&gt;
 
 

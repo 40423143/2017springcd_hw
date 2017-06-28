@@ -6,11 +6,12 @@
 &lt;h2&gt;協同產品設計實習課程 第七組行走機構&lt;/h2&gt;
 &lt;p&gt;我是第七組組長負責工作是 onshape上的零件組合,由其他組員繪製零件跟設計後進行組裝跟模擬 &lt;/p&gt;
 &lt;p&gt;工作分配:&lt;/p&gt;
-&lt;p&gt;40423143:onshape協同畫圖,組裝模擬,分配工作,錯誤回報&lt;/p&gt;
+&lt;p&gt;40423143:onshape協同畫圖,組裝模擬,分配工作,錯誤回報,小組架構更新&lt;/p&gt;
 &lt;p&gt;40423114:結構設計,理論分析,錯誤回報&lt;/p&gt;
 &lt;p&gt;40423141:協同畫圖,錯誤回報&lt;/p&gt;
 &lt;p&gt;40423146:v-rep模擬,錯誤回報&lt;/p&gt;
 &lt;p&gt;40423120:實體列印&lt;/p&gt;
+&lt;p&gt;40423124:實體列印&lt;/p&gt;
 &lt;h2&gt;第七組網誌連結&lt;/h2&gt;
 &lt;p&gt;&lt;a href="https://40423143.github.io/2017springcd_ag7/blog/index.html"&gt;第七組網誌工作區&lt;/a&gt;&lt;/p&gt;
 &lt;h1&gt;零件組裝1:組裝40423143&lt;/h1&gt;
@@ -103,6 +104,9 @@
 &lt;p&gt;實體切削由40423120負責:&lt;/p&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/73sQ9yvbqIA" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
+&lt;p&gt;實體切削由40423124負責:&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/BHCHLwts0h4" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
 &lt;h2&gt;期末總結心得影片&lt;/h2&gt;
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/Syuhq2T-xQw" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -132,7 +136,13 @@
 &lt;iframe src="https://player.vimeo.com/video/222774091" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/222774091"&gt;國立虎尾科技大學 機械設計工程系 協同產品設計實習 40423143 第十二週 齒輪嚙合程式講解&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
-&lt;p&gt;第十三週:無&lt;/p&gt;
+&lt;p&gt;第十三週:&lt;/p&gt;
+&lt;p&gt;齒輪onshape上操作&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxX4_38Zwqk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/223449166" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/223449166"&gt;國立虎尾科技大學 機械設計系 協同產品設計實習 40423143 楊智勝 第十三週 onshape 齒輪嚙和&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
 &lt;p&gt;第十四週:無&lt;/p&gt;
 &lt;h1&gt;第十五週:&lt;/h1&gt;
 &lt;h1&gt;齒輪協同繪製過程影片:&lt;/h1&gt;
@@ -926,6 +936,10 @@ ctx.stroke()
 &lt;/script&gt;
 
 &lt;h1&gt;齒輪協同繪製過程影片:&lt;/h1&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxX4_38Zwqk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;img src="./../data/w2/w15.jpg" width="800" height="600" /&gt;&lt;/p&gt;&lt;/p&gt;
+
 &lt;iframe src="https://player.vimeo.com/video/220115354" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
 
 &lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/220115354"&gt;國立虎尾科技大學 機械設計工程系 協同產品設計實習 40423143 第十五週齒輪協同繪製&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
@@ -935,9 +949,16 @@ ctx.stroke()
 
 &lt;h2&gt;協同產品設計實習課程 第十三週&lt;/h2&gt;
 &lt;p&gt;各班給兩台實體電腦, 從 Ubuntu 16.04 裝起, 配置正齒輪齒面寬輔助設計程式, 然後設法延伸此網際輔助設計程式, 配置 V-rep、Leo Editor、Fossil SCM server 以及 Nginx 加上以 uwsgi 配置 Python3 網際程式等系統. - 由 WCM 課程學員負責配置好硬體與操作系統, 然後逐步放入網際內容管理系統後, 分別為協同產品設計實習各學員建立帳號, 然後試著完成上述各系統與伺服器的建立.&lt;/p&gt;
-&lt;p&gt;上課心得:協同的重要性的成分未來只會更多,我們必需更懂如何透過程式來整合所學的一切&lt;/p&gt;
 &lt;p&gt;v-rep練習&lt;/p&gt;
-&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pkAGFmtVX2s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十二週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-11T12:08:00+08:00</published><updated>2017-05-11T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-05-11:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython 繪製三個正齒輪廓嚙合&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/pkAGFmtVX2s" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;齒輪onshape上操作&lt;/p&gt;
+&lt;iframe width="560" height="315" src="https://www.youtube.com/embed/uxX4_38Zwqk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;iframe src="https://player.vimeo.com/video/223449166" width="640" height="361" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;p&gt;&lt;a href="https://vimeo.com/223449166"&gt;國立虎尾科技大學 機械設計系 協同產品設計實習 40423143 楊智勝 第十三週 onshape 齒輪嚙和&lt;/a&gt; from &lt;a href="https://vimeo.com/user44207171"&gt;楊智勝&lt;/a&gt; on &lt;a href="https://vimeo.com"&gt;Vimeo&lt;/a&gt;.&lt;/p&gt;&lt;/p&gt;
+&lt;p&gt;上課心得:協同的重要性的成分未來只會更多,我們必需更懂如何透過程式來整合所學的一切&lt;/p&gt;</summary><category term="seat table"></category></entry><entry><title>協同產品設計實習 第十二週作業</title><link href="./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html" rel="alternate"></link><published>2017-05-11T12:08:00+08:00</published><updated>2017-05-11T12:08:00+08:00</updated><author><name>43</name></author><id>tag:,2017-05-11:./xie-tong-chan-pin-she-ji-shi-xi-di-shi-er-zhou-zuo-ye.html</id><summary type="html">&lt;p&gt;&lt;b&gt;&lt;font color="red"&gt;Brython 繪製三個正齒輪廓嚙合&lt;/font&gt;&lt;/b&gt;&lt;/p&gt;
 &lt;p&gt;三種正齒輪嚙合&lt;/p&gt;
 
 

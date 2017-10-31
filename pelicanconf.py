@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = '40423143'
-SITENAME = '協同產品設計實習40423143楊智勝'
+AUTHOR = '狂風字語'
+SITENAME = '楊智勝的狂風字語'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 

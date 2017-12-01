@@ -2,8 +2,8 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = '狂風字語'
-SITENAME = '楊智勝的狂風字語'
+AUTHOR = '虎尾科技大學 專題日誌'
+SITENAME = '虎尾科技大學 專題日誌'
 # 不要用文章所在目錄作為類別
 USE_FOLDER_AS_CATEGORY = False
 
